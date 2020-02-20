@@ -157,10 +157,7 @@ $fontText: 'Raleway', sans-serif;
 }
 .qoute{
     @include backgroundBanner;
-    background-image:  linear-gradient(
-        rgba(0, 0, 0, 0.6),
-        rgba(0, 0, 0, 0.6)
-      ), url('/scss/assets/purse.jpg');
+    background-image:  linear-gradient( rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url('/scss/assets/q.jpg');
     @include imgPosition();
     background-attachment: fixed;
     h3{
