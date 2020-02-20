@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+  
+.menu{
+  display: none;
+}
+.home{
+    display: none;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.tabcontent {
+    display: none;
+    height: 100%;
+  }
+
+  span{
+      font-weight: bolder;
+  }
+
+
+  
+ 
+ 
+  
+  
