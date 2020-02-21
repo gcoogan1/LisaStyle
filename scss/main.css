@@ -1219,7 +1219,7 @@ footer input {
   }
 }
 
-@media screen and (max-width: 426px) and (min-width: 425px) {
+@media screen and (max-width: 440px) and (min-width: 412px) {
   footer input {
     padding: 5px;
     font-size: 12px;
