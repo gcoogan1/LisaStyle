@@ -157,9 +157,13 @@ $fontText: 'Raleway', sans-serif;
 }
 .qoute{
     @include backgroundBanner;
+<<<<<<< HEAD
     background-image: url('./assets/q.jpg');
     @include imgPosition();
     background-attachment: fixed;
+=======
+    background-color: $lightPink;
+>>>>>>> 2f7650072a6eb48c530cca0227566aedf8501c02
     h3{
       @include banner;
       font-size: 24px;
